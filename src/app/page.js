@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Button variant="primary">Primary</Button>{' '}
 
-      <Cabecalho titulo="Orion" subtitulo="Agora" />
+      <Cabecalho titulo="Augusto" subtitulo="Agora" />
       <Cabecalho titulo="Frontend" />
       <Cabecalho titulo="Cabeçalho" />
       <Cabecalho titulo="React" />
